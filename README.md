@@ -1,3 +1,5 @@
+![Image of Nathan's skills](https://nathanwiles.net/img/skills.png)
+
 ## Hi, I'm Nathan.
 I do full-stack web development and make games. I work mostly in C#. Here are some of my favorite projects:
 
