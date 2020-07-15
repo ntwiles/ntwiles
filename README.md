@@ -7,4 +7,6 @@ Nala is an interpreted programming language I'm working on. It's in a pretty sta
 ### Sorting Algorithms
 I wrote this project as a way to better my understanding of many common sorting algorithms, and also to get some practice with C#'s features for concurrent programming. [Give it a try!](https://github.com/ntwiles/sorting-algorithms)
 
+### Acid 
+This is a Myst-inspired game I created as part of a game jam. The code is [hosted here](https://github.com/ntwiles/acid) on GitHub and the game is [playable here](https://ntwiles.itch.io/acid). 
 
