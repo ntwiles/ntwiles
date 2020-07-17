@@ -15,5 +15,5 @@ I do full-stack web development and make games. I work mostly in C#, but I also 
 
 **Get In Touch**
 
-[LinkedIn](https://www.linkedin.com/in/nathan-wiles/) - [Email](ntwiles@gmail.com) - [Website](http://nathanwiles.net)
+[LinkedIn](https://www.linkedin.com/in/nathan-wiles/) - [Website](http://nathanwiles.net)
 
