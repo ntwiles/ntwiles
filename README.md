@@ -9,8 +9,7 @@ I do full-stack web development and make games. I work mostly in C#, but I also 
 
 ## Projects
 
-### Nala Language
-Nala is an interpreted [programming language](https://github.com/ntwiles/nala) I'm working on. It's in a pretty stable state and has enough functionality to write a lot of basic console applications.
+**[Nala Language](https://github.com/ntwiles/nala)** An interpreted programming language I'm working on. It's in a pretty stable state and has enough functionality to write a lot of basic console applications.
 
 ### VOIDRUN
 A fast-paced 3D space flyer game that pits you against the clock. Placed 19th out of 770+ entries a Brackeys game jam. The code is [hosted here](https://github.com/ntwiles/voidrun) on GitHub and the game is [playable here](https://ntwiles.itch.io/voidrun). 
