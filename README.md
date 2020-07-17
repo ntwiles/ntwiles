@@ -10,7 +10,5 @@ I do full-stack web development and make games. I work mostly in C#, but I also 
 
 **Get In Touch**
 
-You can reach me by email (left panel) or on my [LinkedIn](https://www.linkedin.com/in/nathan-wiles/).
-
-[nathanwiles.net](http://nathanwiles.net)
+You can reach me by email (left panel) or on my [LinkedIn](https://www.linkedin.com/in/nathan-wiles/), or check out my website [nathanwiles.net](http://nathanwiles.net).
 
