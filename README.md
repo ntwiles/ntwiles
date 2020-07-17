@@ -3,7 +3,7 @@
 **Hi, I'm Nathan.**
 I do full-stack web development and make games. I work mostly in C#, but I also love JavaScript and I'm playing around with Rust. Here are some of my favorite projects:
 
-**Learning Right Now**
+**Excited About**
 - Rust
 - Vue.js
 - Linq
