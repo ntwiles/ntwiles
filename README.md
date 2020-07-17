@@ -14,5 +14,6 @@ I do full-stack web development and make games. I work mostly in C#, but I also 
 [Acid](https://github.com/ntwiles/acid) A Myst-inspired puzzle game in Unity.
 
 **Get In Touch**
+
 [LinkedIn](https://www.linkedin.com/in/nathan-wiles/) - [Email](ntwiles@gmail.com) - [Website](http://nathanwiles.net)
 
