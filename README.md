@@ -13,7 +13,7 @@ I do full-stack web development and make games. I work mostly in C#, but I also 
 
 [VOIDRUN](https://github.com/ntwiles/voidrun) - A fast-paced 3D space flyer game that pits you against the clock.
 
-[Sorting Algorithms](https://github.com/ntwiles/sorting-algorithms) I wrote this project as a way to better my understanding of many common [sorting algorithms], and also to get some practice with C#'s features for concurrent programming.
+[Sorting Algorithms](https://github.com/ntwiles/sorting-algorithms) - Five intrepid sorting algorithms race in parallel to finish the job first. Who will win?
 
 [Acid](https://github.com/ntwiles/acid) A Myst-inspired puzzle game in Unity.
 
