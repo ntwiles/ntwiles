@@ -11,7 +11,7 @@ I do full-stack web development and make games. I work mostly in C#, but I also 
 
 [Sorting Algorithms](https://github.com/ntwiles/sorting-algorithms) - Five intrepid sorting algorithms race in parallel to finish the job first. Who will win?
 
-[Acid](https://github.com/ntwiles/acid) A Myst-inspired puzzle game in Unity.
+[Acid](https://github.com/ntwiles/acid) - A Myst-inspired puzzle game in Unity.
 
 **Get In Touch**
 
