@@ -1,4 +1,4 @@
-![Image of Nathan's skills](http://nathanwiles.net/img/skillds.png)
+![Image of Nathan's skills](http://nathanwiles.net/img/skills.png)
 
 **Hi, I'm Nathan.**
 I do full-stack web development and make games. I work mostly in C#, but I also love JavaScript.
