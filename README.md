@@ -11,11 +11,9 @@ I do full-stack web development and make games. I work mostly in C#, but I also 
 
 [Nala Language](https://github.com/ntwiles/nala) -  My interpreted programming language.
 
-[VOIDRUN](https://github.com/ntwiles/voidrun) - A fast-paced 3D space flyer game that pits you against the clock. Placed 19th out of 770+ entries a Brackeys game jam. The game is [playable here](https://ntwiles.itch.io/voidrun). 
+[VOIDRUN](https://github.com/ntwiles/voidrun) - A fast-paced 3D space flyer game that pits you against the clock.
 
-### Sorting Algorithms
-I wrote this project as a way to better my understanding of many common [sorting algorithms](https://github.com/ntwiles/sorting-algorithms), and also to get some practice with C#'s features for concurrent programming.
+[Sorting Algorithms](https://github.com/ntwiles/sorting-algorithms) I wrote this project as a way to better my understanding of many common [sorting algorithms], and also to get some practice with C#'s features for concurrent programming.
 
-### Acid 
-This is a Myst-inspired puzzle game I created as part of a game jam. The code is [hosted here](https://github.com/ntwiles/acid) on GitHub and the game is [playable here](https://ntwiles.itch.io/acid). 
+[Acid](https://github.com/ntwiles/acid) A Myst-inspired puzzle game in Unity.
 
