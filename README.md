@@ -3,15 +3,8 @@
 **Hi, I'm Nathan.**
 I do full-stack web development and make games. I work mostly in C#, but I also love JavaScript and I'm playing around with Rust. Here are some of my favorite projects:
 
-**My Favorite Repos**
-
-[Nala Language](https://github.com/ntwiles/nala) -  My interpreted programming language.
-
-[VOIDRUN](https://github.com/ntwiles/voidrun) - A fast-paced 3D space flyer game that pits you against the clock.
-
-[Sorting Algorithms](https://github.com/ntwiles/sorting-algorithms) - Five intrepid sorting algorithms race in parallel to finish the job first. Who will win?
-
-[Acid](https://github.com/ntwiles/acid) - A Myst-inspired puzzle game in Unity.
+**What I'm Learning**
+- Test
 
 **Get In Touch**
 
