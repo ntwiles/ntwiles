@@ -1,12 +1,10 @@
 ![Image of Nathan's skills](http://nathanwiles.net/img/github-skills.png)
 
 **Hi, I'm Nathan.**
-I do full-stack web development and make games. I work mostly in C#, but I also love JavaScript.
+I do full-stack web development and make games. I love TypeScript and Rust.
 
-**What I'm Learning**
-- Rust
-- Vue.js
-- Linq
+**What I'm Workong On**
+I enjoy building my own versions of the tools programmers use every day in order to get a better understanding of how they work. Right now I'm building Nala, my own interpreted programming language, and also working on Nit, a simple Git clone. Both projects are written in Rust.
 
 **Get In Touch**
 
