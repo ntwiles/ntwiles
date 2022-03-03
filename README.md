@@ -1,4 +1,3 @@
-![Image of Nathan's skills](http://nathanwiles.net/img/github-skills.png)
 
 **Hi, I'm Nathan.**
 I do full-stack web development and make games. I love TypeScript and Rust.
