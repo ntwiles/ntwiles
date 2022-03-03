@@ -1,5 +1,5 @@
 
-**Hi, I'm Nathan.**
+**👋 Hi, I'm Nathan.**
 I do full-stack web development and make games. I love TypeScript and Rust.
 
 **What I'm Working On**
