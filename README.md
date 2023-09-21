@@ -7,7 +7,7 @@ I do full-stack web development and make games. I love TypeScript and Rust.
 
 I enjoy building my own versions of the tools programmers use every day to get a better understanding of how they work. 
 
-Right now I'm building [Nala](https://github.com/ntwiles/nala), my own interpreted programming language, and also working on [Nit](https://github.com/ntwiles/nit), a simple Git clone. Both projects are written in Rust.
+Right now I'm building [Nala](https://github.com/ntwiles/nala), my own interpreted programming language, as well as a [custom game engine](https://github.com/ntwiles/game-engine), and also working on [Nit](https://github.com/ntwiles/nit), a simple Git clone. Both projects are written in Rust.
 
 **✉️ Get In Touch**
 
