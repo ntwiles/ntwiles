@@ -1,4 +1,4 @@
-I do full-stack web development and make games. I love TypeScript and Rust, and Python.
+I do full-stack web development. I love TypeScript and Rust, and Python.
 
 **What I'm Working On**
 
